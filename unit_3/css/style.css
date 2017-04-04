@@ -19,5 +19,11 @@ p {
 }
 hr {
 	color: #FFFFFF;
-
+	width: 220px;
+}
+ul {
+	list-style-type: none;
+}
+a {
+	color: #FFBE29;
 }
