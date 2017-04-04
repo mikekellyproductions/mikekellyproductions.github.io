@@ -1,7 +1,7 @@
 body {
 	color: #FFFFFF;
 	text-align: right;
-	background: url("https://cdn.pixabay.com/photo/2015/11/07/11/17/light-1030988_960_720.jpg");
+	background: #000000; 
 	background-size: cover;
 	font-family: Helvetica;
 }
@@ -12,6 +12,8 @@ h1 {
 #slogan {
 	color: #FFFDF8;
 	font-style: italic;
-	font-size: 33px;
-
+	font-size: 34px;
+}
+p {
+	font-size: 22px;
 }
