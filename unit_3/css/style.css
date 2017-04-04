@@ -20,10 +20,11 @@ p {
 hr {
 	color: #FFFFFF;
 	width: 220px;
+	text-align: right;
 }
 ul {
 	list-style-type: none;
 }
 a {
-	color: #FFBE29;
+	color: #7F5F14;
 }
