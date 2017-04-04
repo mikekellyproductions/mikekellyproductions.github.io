@@ -1,7 +1,7 @@
 body {
 	color: #FFFFFF;
 	text-align: right;
-	background: #000000; 
+	background: url(https://cdn.pixabay.com/photo/2015/11/07/11/17/light-1030988_960_720.jpg); 
 	background-size: cover;
 	font-family: Helvetica;
 }
@@ -16,4 +16,9 @@ h1 {
 }
 p {
 	font-size: 22px;
+}
+hr {
+	color: #FFFFFF;
+	width: 25px;
+
 }
