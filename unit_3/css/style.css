@@ -1,11 +1,17 @@
 body {
-	color: #CC9821;
+	color: #FFFFFF;
+	text-align: right;
+	background: url("https://cdn.pixabay.com/photo/2015/11/07/11/17/light-1030988_960_720.jpg");
+	background-size: cover;
+	font-family: Helvetica;
 }
 h1 {
 	color: #FFBE29;
+	font-size: 26px;
 }
 #slogan {
 	color: #FFFDF8;
 	font-style: italic;
+	font-size: 33px;
 
 }
