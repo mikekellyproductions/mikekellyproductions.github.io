@@ -19,8 +19,8 @@ p {
 }
 hr {
 	color: #FFFFFF;
+	align-content: right;
 	width: 220px;
-	text-align: right;
 }
 ul {
 	list-style-type: none;
