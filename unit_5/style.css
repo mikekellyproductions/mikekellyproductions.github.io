@@ -3,7 +3,7 @@
 body {
 	color: #FFFFFF;
 	text-align: right;
-	background: black;
+	background: none;
 	font-family: helvetica;
 }
 h1 {
@@ -22,20 +22,7 @@ p {
 	text-align: center;
 	color: #FFBE29;
 }
-hr {
-	color: #FFFFFF;
-	align-content: center;
-	width: 220px;
-}
-ul {
-	list-style-type: none;
-}
-li {
-	text-align: center;
-}
-a {
-	color: #7F5F14;
-}
+
 header {
     background-color: #FFED74;
     border: 1px black solid;
