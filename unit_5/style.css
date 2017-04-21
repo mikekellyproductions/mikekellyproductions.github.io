@@ -6,23 +6,6 @@ body {
 	background: none;
 	font-family: helvetica;
 }
-h1 {
-	color: #FFBE29;
-	font-size: 28px;
-	font-family: 'Droid Sans', sans-serif;
-}
-.tag-line {
-	color: #FFFDF8;
-	font-style: italic;
-	font-size: 34px;
-	font-family: 'Droid Sans', sans-serif;
-}
-p {
-	font-size: 22px;
-	text-align: center;
-	color: #FFBE29;
-}
-
 header {
     background-color: #FFED74;
     border: 1px black solid;
@@ -47,4 +30,20 @@ footer{
 	background-color: #FFE2B8;
     border: 1px black solid;
     padding: 20px;
+}
+h1 {
+	color: #FFBE29;
+	font-size: 28px;
+	font-family: 'Droid Sans', sans-serif;
+}
+.tag-line {
+	color: #FFFDF8;
+	font-style: italic;
+	font-size: 34px;
+	font-family: 'Droid Sans', sans-serif;
+}
+p {
+	font-size: 22px;
+	text-align: center;
+	color: #FFBE29;
 }
