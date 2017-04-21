@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css?family=Droid+Sans:700|EB+Garamond');
+
+body {
+	color: #FFFFFF;
+	text-align: right;
+	background: black;
+	font-family: helvetica;
+}
+h1 {
+	color: #FFBE29;
+	font-size: 28px;
+	font-family: 'Droid Sans', sans-serif;
+}
+.tag-line {
+	color: #FFFDF8;
+	font-style: italic;
+	font-size: 34px;
+	font-family: 'Droid Sans', sans-serif;
+}
+p {
+	font-size: 22px;
+	text-align: center;
+	color: #FFBE29;
+}
+hr {
+	color: #FFFFFF;
+	align-content: center;
+	width: 220px;
+}
+ul {
+	list-style-type: none;
+}
+li {
+	text-align: center;
+}
+a {
+	color: #7F5F14;
+}
+header {
+    background-color: #FFED74;
+    border: 1px black solid;
+    padding: 20px;
+}
+nav {
+	background-color: #E8C66A;
+    border: 1px black solid;
+    padding: 20px;
+}
+article {
+	background-color: #E89C6C;
+    border: 1px black solid;
+    padding: 20px;
+}
+footer{
+	background-color: #FF957E;
+    border: 1px black solid;
+    padding: 20px;
+}
+#one {
+	background-color: #FFE2B8;
+    border: 1px black solid;
+    padding: 20px;
+}
