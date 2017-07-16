@@ -26,10 +26,31 @@ footer{
     border: 1px black solid;
     padding: 20px;
 }
+#one {
+	background-color: #FFE2B8;
+    border: 1px black solid;
+    padding: 20px;
+}
+h1 {
+	color: #FFBE29;
+	font-size: 28px;
+	font-family: 'Droid Sans', sans-serif;
+}
+.tag-line {
+	color: #FFFDF8;
+	font-style: italic;
+	font-size: 34px;
+	font-family: 'Droid Sans', sans-serif;
+}
+p {
+	font-size: 22px;
+	text-align: center;
+	color: #FFBE29;
+}
 #two_column {
 	background-color: #FFB7CF;
 	border: 1px black solid;
-	padding: 20px,
+	padding: 20px;
 }
 #left {
 	background-color: #E582A2;
@@ -53,25 +74,3 @@ footer{
     clear: both;
     height: 0;
 }
-#one {
-	background-color: #FFE2B8;
-    border: 1px black solid;
-    padding: 20px;
-}
-h1 {
-	color: #FFBE29;
-	font-size: 28px;
-	font-family: 'Droid Sans', sans-serif;
-}
-.tag-line {
-	color: #FFFDF8;
-	font-style: italic;
-	font-size: 34px;
-	font-family: 'Droid Sans', sans-serif;
-}
-p {
-	font-size: 22px;
-	text-align: center;
-	color: #FFBE29;
-}
-
