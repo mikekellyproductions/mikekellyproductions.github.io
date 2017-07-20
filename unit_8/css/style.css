@@ -3,8 +3,9 @@
 body {
 	color: #FFFFFF;
 	text-align: right;
-	background: none;
+	background: none; 
 	font-family: helvetica;
+	font-size: 20px;
 }
 header {
     background-color: #FFED74;
@@ -33,17 +34,25 @@ footer{
 }
 h1 {
 	color: #FFBE29;
-	font-size: 28px;
+	font-size: 1.5em;
 	font-family: 'Droid Sans', sans-serif;
+}
+nav {
+	float: right;
+	width: 40%;
+}
+a {
+	text-decoration: none;
+	color: #FFFDF8;
 }
 .tag-line {
 	color: #FFFDF8;
 	font-style: italic;
-	font-size: 34px;
+	font-size: 1.8em;
 	font-family: 'Droid Sans', sans-serif;
 }
 p {
-	font-size: 22px;
+	font-size: 1em;
 	text-align: center;
 	color: #FFBE29;
 }
@@ -66,6 +75,9 @@ p {
 	float: right;
 	width: 62%;
 }
+#lightbulb {
+	width: 100%
+}
 .clearfix:after {
     visibility: hidden;
     display: block;
@@ -73,4 +85,16 @@ p {
     content: " ";
     clear: both;
     height: 0;
+}
+@media only screen and (max-width: 1100px) {
+	#left, #right {
+		display: block;
+		text-align: left;
+		font-size: .75em;
+	}
+}
+@media only screen and (max-width: 971px) {
+	nav {
+		float: none;
+	}
 }
